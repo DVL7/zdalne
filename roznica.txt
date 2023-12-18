@@ -1,0 +1,17 @@
+--- lokomotywa.txt	2023-12-18 09:00:13.383997300 +0100
++++ lokomotywa2.txt	2023-12-18 09:01:48.997087400 +0100
+@@ -3,9 +3,9 @@
+ Tłusta oliwa.
+ Stoi i sapie, dyszy i dmucha,
+ Żar z rozgrzanego jej brzucha bucha:
+-Buch - jak cieplo!
+-Uch - jak cieplo!
+-Puff - jak cieplo!
+-Uff - jak cieplo!
++Buch - jak zimno!
++Uch - jak zimno!
++Puff - jak zimno!
++Uff - jak zimno!
+ Już ledwo sapie, już ledwo zipie,
+ A jeszcze palacz węgiel w nią sypie.
+\ No newline at end of file
